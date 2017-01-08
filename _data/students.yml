@@ -16,6 +16,14 @@
   bio: 17, VR and Game Developer. Tech Enthusiast.
   lat: 19.9849
   lng: 73.7471
+  
+- name: Lakshay Kalbhor
+  github: lakshaykalbhor
+  image: LakshayKalbhor.jpg
+  facebook: KalbhorLakshay
+  bio: 17, likes using code to solve problems, loves Pink Floyd.
+  lat: 28.55
+  lng: 77.25
 
 - name: Aditya Jyoti Paul
   github: TechGuyAditya
